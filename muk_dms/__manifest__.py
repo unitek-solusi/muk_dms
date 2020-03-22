@@ -20,9 +20,9 @@
 {
     "name": "MuK Documents",
     "summary": """Document Management System""",
-    "version": '11.0.2.1.7',   
+    "version": '11.0.2.1.9',   
     "category": 'Document Management',   
-    "license": "AGPL-3",
+    "license": "LGPL-3",
     "website": "http://www.mukit.at",
     "live_test_url": "https://demo.mukit.at/web/login",
     "author": "MuK IT",
